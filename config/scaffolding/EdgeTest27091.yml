@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeTest27091
+  gitServerName: testEdgeProjects
+  gitUrl: https://github.com/rlakshitha0912/Test27091Project
+  gitUsername: rlakshitha0912
+  gitToken: edge.scaffolding.EdgeTest27091.testEdgeProjects.gitToken
+  gitBranch: main
